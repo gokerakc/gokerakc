@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">hey there 👋</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">I am a software engineer who likes to talk about clean code and system design.<br><br>Highly interested in topics like;<br> - Backend development, <br>- EDA (Event Driven Architecture),<br> - Performance and unit testing,<br> - Microservices and APIs, <br> - Street food markets 😋<br><br>I currently live and work in London. If you’d like to get in touch with me, you can find me on LinkedIn or X(Twitter)</h5>
+<p align="left">I am a software engineer who likes to talk about clean code and system design.<br><br>Highly interested in topics like;<br> - Backend development, <br>- EDA (Event Driven Architecture),<br> - Performance and unit testing,<br> - Microservices and APIs, <br> - Street food markets 😋<br><br>I currently live and work in London. If you’d like to get in touch with me, you can find me on LinkedIn or X(Twitter)</p>
 
 ###
 
